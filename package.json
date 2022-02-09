@@ -7,6 +7,9 @@
   "author": "Showrin Barua <showrin.barua@welldev.io>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "dev": "docsify serve docs"
+  },
   "devDependencies": {
     "docsify-cli": "^4.4.3"
   }
