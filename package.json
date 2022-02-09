@@ -6,5 +6,8 @@
   "repository": "git@github.com:bas-wtag/js-marathon.git",
   "author": "Showrin Barua <showrin.barua@welldev.io>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
 }
