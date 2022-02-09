@@ -1,3 +1,3 @@
-# Headline
+# Introduction
 
-> An awesome project.
+> A diary of JS Topics.
