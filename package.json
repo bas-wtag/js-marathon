@@ -1,0 +1,16 @@
+{
+  "name": "js-marathon",
+  "version": "1.0.0",
+  "description": "A diary of JS Topics",
+  "main": "index.js",
+  "repository": "git@github.com:bas-wtag/js-marathon.git",
+  "author": "Showrin Barua <showrin.barua@welldev.io>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "docsify serve docs"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
