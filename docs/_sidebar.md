@@ -1,5 +1,6 @@
-* [Introduction](/ 'JS Marathon - Introduction')
-* [JS Basic](js-basic/readme.md 'JS Marathon - JS Basic')
+* **Getting Started**
+  * [Introduction](/ 'JS Marathon')
+* **JS Basic**
   * [Data Types](js-basic/data-types.md 'JS Marathon - Data Types')
   * [Variables](js-basic/variables.md 'JS Marathon - Variables')
   * [Constants](js-basic/constants.md 'JS Marathon - Constants')

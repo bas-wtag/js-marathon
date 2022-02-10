@@ -1,3 +1,3 @@
 # Introduction
 
-> A diary of JS Topics.
+> A Note Book of JS Topics
