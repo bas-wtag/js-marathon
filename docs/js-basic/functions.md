@@ -1,4 +1,4 @@
-# Functions
+## Note from [aaf-wtag](https://github.com/aaf-wtag)
 
 ### JS Functions
 
